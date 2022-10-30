@@ -2,7 +2,7 @@
 ## store management system in javaFx
 Advanced Programming projects and Assignments
 Group members
-1. AhmadGUl
+1. Ahmad Gul
 2. Ahsanullah (Rahmatullah)
 3. Samiullah(Ali M)
 4. Rouhullah
